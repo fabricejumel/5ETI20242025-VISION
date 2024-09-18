@@ -16,12 +16,11 @@ Dans le cas du Deep Learning, le nombre de neurones peut être très important, 
 
 De nombreux outils de gestion de réseaux de neurones existent, et de nombreuses applications sont mises en place. Les concepteurs doivent développer ou choisir une architecture (nombre de neurones, organisations de couches, mécanismes d'apprentissage) puis créer le dataset nécessaire à l'apprentissage. Finalement, le réseau peut être figé une fois que les performances sont jugées correctes.
 
-La solution la plus populaire actuellement est **TensorFlow**, qui fournit un cadre simple pour le développement dans tous les domaines. Le module suivant "Deep Learning" sera centré sur TensorFlow. Cependant, la solution choisie pour notre TP est le réseau **YOLO**, utilisé dans différents frameworks, mais sans passer par **Darknet**. La particularité de YOLO est son analyse d'image en une seule passe, détectant des objets à différentes échelles.
+La solution la plus populaire actuellement est **TensorFlow**, qui fournit un cadre simple pour le développement dans tous les domaines. Le module suivant "Deep Learning" sera centré sur TensorFlow. Cependant, la solution choisie pour notre TP est le réseau **YOLO**, utilisé dans différents frameworks. La particularité de YOLO est son analyse d'image en une seule passe, détectant des objets à différentes échelles.
 
 [Réalisation en YOLO](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 
-Le rendu sera fait sur le e-campus avec un rapport contenant les codes et exemples, et une archive `partieX_NOM1_NOM2.zip`.
-
+Le rendu sera fait sur git avec un rapport contenant les codes et exemples
 ---
 
 ## Partie 1 : Prise en main de YOLO dans le module DNN d'OpenCV
