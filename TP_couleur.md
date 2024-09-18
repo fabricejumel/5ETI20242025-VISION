@@ -25,6 +25,7 @@ Quelle est votre conclusion sur le but de ce code ?
 Proposez un code qui permet de choisir la couleur considérée parmi les 4 suivantes (bleu, rose, jaune ou vert)
 
 ![4_balles.jpg](img/4_balles.jpg "4 balles de couleurs")
+<img src="img/4_balles.jpg" height="300">
 
 Vous pourrez vous inspirer des documents suivants :
 
