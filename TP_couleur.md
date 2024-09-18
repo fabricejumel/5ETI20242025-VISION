@@ -9,7 +9,7 @@ On s’intéresse au tracking par un drone volant d'une boule de couleur, c'est-
 [Vidéo du comportement](https://www.youtube.com/watch?v=_3697dtyOz4)
 
 Un fichier zippé `BallTracker.tar.gz` contient un exemple de code et un ensemble de vidéos. Le code est une version à peine modifiée du code suivant :  
-[Exemple de code](https://github.com/simondlevy/OpenCV-Python-Hacks/blob/master/greenball_tracker.py)
+[Exemple de code](couleur/greenball_tracker.py)
 
 ## Question 1
 Tester ce code avec Python V2 :
