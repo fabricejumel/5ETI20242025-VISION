@@ -36,4 +36,5 @@ Vous pourrez vous inspirer des documents suivants :
 
 Je vous propose aussi de regarder la vidéo suivante sur la représentation des couleurs 
 
-[Video sur les couleurs](https://www.youtube.com/watch?v=CF4wuPLBaAA)
+https://www.youtube.com/watch?v=CF4wuPLBaAA
+
