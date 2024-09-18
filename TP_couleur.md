@@ -17,4 +17,15 @@ Tester ce code avec Python V2 :
 ```bash
 python balls_tracker.py
 ```
+(Comme vous pouvez le constater, par défaut le code  utilise la vidéo ball.mp4 comme source d'entrée).
+Quelle est votre conclusion sur le but de ce code ?
 
+## Question 2
+
+Proposez un code qui permet de choisir la couleur considérée parmi les 4 suivantes (bleu, rose, jaune ou vert)
+Vous pourrez vous inspirer des documents suivants :
+[Lien 1](https://docs.opencv.org/3.2.0/df/d9d/tutorial_py_colorspaces.html)
+[Lien 2](https://stackoverflow.com/questions/10948589/choosing-correct-hsv-values-for-opencv-thresholding-with-inranges)
+[Lien 3](https://www.learnopencv.com/color-spaces-in-opencv-cpp-python/)
+Je vous propose aussi de regarder la vidéo suivante sur la représentation des couleurs 
+[Video sur les couleurs](https://www.youtube.com/watch?v=CF4wuPLBaAA)
