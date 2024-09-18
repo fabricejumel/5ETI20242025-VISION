@@ -86,22 +86,8 @@ La détection de visage est l'un des exemples de cascades de Haar implémentés 
 Écrivez un code qui sauvegarde dans un répertoire visage, une image croppée du visage avec comme nom du fichier : `date_de_detection_numero.jpg` (numéro si plusieurs détectés sur l’image de 1 à N).  
 Vous ferez un choix concernant le format de la “date de détection”.
 
-#### 3) Mise en œuvre d'une solution de détection de visage sous ROS (« en bonus » sans aide)
 
-Écrivez un code qui souscrit au topic images et qui produit un topic `result` (entier 16 bits) pour indiquer qu'une image a été reçue.
-
-Écrivez un code qui fait l'analyse d'images mis en œuvre précédemment et affiche dans le topic `result` le nombre de visages détectés.
-
-Ce code pourra par la suite faire appel à des paramètres et des services pour configurer les paramètres intrinsèques du filtre en cascade de Haar de détection d'images (Optionnel).
-
-Proposez un meilleur format de topic que simplement `result` (Int16).  
-Proposez un code qui met en œuvre ce topic.  
-Proposez un code qui produit une image modifiée comme manipulée précédemment, qui met en évidence les visages détectés.
-
-Proposez un filtrage temporel de ces visages (par exemple, doit être présent sur au moins trois images successives pour être considéré comme un visage - optionnel).  
-Pourriez-vous au passage associer à ces visages, une vitesse? (optionnel)
-
-#### 4) Création d'un classifieur (« Pour information mais ne pas faire dans le cadre du TP »)
+#### 3) Création d'un classifieur (« Pour information mais ne pas faire dans le cadre du TP »)
 
 L'idée est de mettre en place votre propre classifieur en vous basant sur le tutoriel et les codes suivants:
 - [https://github.com/mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training)
