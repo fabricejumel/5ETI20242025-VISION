@@ -1,4 +1,4 @@
-Il est recommandé de travailler daun venv 
+Il est recommandé de travailler dans un environnement virtuel
 Example de creation et premiere utilisation
 
 ``` bash
