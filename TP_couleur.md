@@ -23,6 +23,9 @@ Quelle est votre conclusion sur le but de ce code ?
 ## Question 2
 
 Proposez un code qui permet de choisir la couleur considérée parmi les 4 suivantes (bleu, rose, jaune ou vert)
+
+![4_balles.jpg](img/4_balles.jpg "4 balles de couleurs")
+
 Vous pourrez vous inspirer des documents suivants :
 
 [Lien 1](https://docs.opencv.org/3.2.0/df/d9d/tutorial_py_colorspaces.html)
