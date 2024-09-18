@@ -35,8 +35,9 @@ Vous pourrez vous inspirer des documents suivants :
 [Lien 3](https://www.learnopencv.com/color-spaces-in-opencv-cpp-python/)
 
 Je vous propose aussi de regarder la vidéo suivante sur la représentation des couleurs 
-<video width="320" height="240" controls>
-  <source src="[https://www.youtube.com/watch?v=CF4wuPLBaAA]" type="video/mp4">
-</video>
-https://www.youtube.com/watch?v=CF4wuPLBaAA
+
+[<img src="https://img.youtube.com/vi/CF4wuPLBaAA/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/CF4wuPLBaAA)
+
+
 
