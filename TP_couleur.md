@@ -53,3 +53,34 @@ https://github.com/fabricejumel/ARDroneAutoPylot/blob/master/opencv/autopylot_ag
 
 Expliquer ce code (avec le plus de détail possible (`autopylot_agent.py`)) et le lien avec le `greenball_tracker.py`.  
 Quelle est le comportement ? Comment est gérée la « distance » à l'objet traqué ?
+
+### Question 4
+Quelle serait le comportement du drône si 2 boules de mêmes couleurs sont déplacées devant lui ?  
+Ce comportement ne semble pas pertinent, pourquoi ?
+
+Le code suivant :  
+https://github.com/JJLewis/ColorTracking-ARDrone2.0-Python/blob/master/Code/track.py  
+Donne à priori une solution à ce problème ?  
+Essayer d'expliquer comment.
+
+### Question 5
+Proposer une modification du code `greenball_tracker` (en vous inspirant ou pas du code précédent) qui donne un comportement équivalent. Tester ce code si possible sur `ball2.mp4`.
+
+### Question 6
+Faites fonctionner votre code précédent en prenant en compte la couleur rose sur la vidéo `ball4.mp4`.
+
+### Question 8
+A priori votre code passe d'une boule à l'autre, comment est-il possible de rester toujours sur la même ?  
+Si ce n’est pas le cas ou si la vidéo proposée ne permet pas de tester, créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
+
+### Question 9
+Proposer un code qui résout ce problème. *(Question difficile)*
+
+### Question 10
+Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image.
+
+### Question 11
+En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage.
+
+### Question 12 (Bonus)
+Si on fait l’hypothèse que l’objet est une balle (ronde), montrer comment on peut prendre en compte l’information et reconstituer le cercle de contour de cette balle.
