@@ -24,6 +24,7 @@ Quelle est votre conclusion sur le but de ce code ?
 
 Proposez un code qui permet de choisir la couleur considérée parmi les 4 suivantes (bleu, rose, jaune ou vert)
 Vous pourrez vous inspirer des documents suivants :
+
 [Lien 1](https://docs.opencv.org/3.2.0/df/d9d/tutorial_py_colorspaces.html)
 
 [Lien 2](https://stackoverflow.com/questions/10948589/choosing-correct-hsv-values-for-opencv-thresholding-with-inranges)
