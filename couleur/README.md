@@ -1,5 +1,5 @@
 Il est recommandé de travailler dans un environnement virtuel
-Example de creation et premiere utilisation
+Exemple de creation et premiere utilisation
 
 ``` bash
 # Creation initiale  du virtual env
