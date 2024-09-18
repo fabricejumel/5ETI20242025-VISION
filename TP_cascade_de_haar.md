@@ -1,6 +1,4 @@
-Here is the markdown version of your text:
 
-```markdown
 # Vision appliquée pour la Robotique  
 ## Majeure ROS/ module Vision  
 2023/2024
