@@ -12,4 +12,9 @@ Un fichier zippé `BallTracker.tar.gz` contient un exemple de code et un ensembl
 [Exemple de code](https://github.com/simondlevy/OpenCV-Python-Hacks/blob/master/greenball_tracker.py)
 
 ## Question 1
+Tester ce code avec Python V2 :
+
+```bash
+python balls_tracker.py
+```
 
