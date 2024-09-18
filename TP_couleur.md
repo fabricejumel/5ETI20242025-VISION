@@ -37,7 +37,7 @@ Vous pourrez vous inspirer des documents suivants :
 Je vous propose aussi de regarder la vidéo suivante sur la représentation des couleurs 
 
 [<img src="https://img.youtube.com/vi/CF4wuPLBaAA/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/CF4wuPLBaAA)
+/>](https://www.youtube.com/embed/CF4wuPLBaAA?autoplay=1)
 
 
 
