@@ -1,7 +1,7 @@
 # TP Couleur
 
-Vous devez traiter au moins jusqu’à la question 12, l’ensemble des comptes rendus est à rendre pour une semaine après le dernier TP. Le travail est à effectuer en binôme. Une séance plus un peu de temps en plus doit suffire. Les deux questions finales peuvent nécessiter beaucoup de temps mais sont optionnelles.  
-Le travail est à faire en autonomie par binôme. Le but est de s’habituer à travailler en consultant des ressources pertinentes sur internet en cas de besoin.
+Vous devez traiter au moins jusqu’à la question 12, l’ensemble des comptes rendus est à rendre pour une semaine après le dernier TP. Le travail est à effectuer en binôme. Une séance plus un peu de temps en plus doit suffire. 
+Le travail est à faire en autonomie par binôme. Le but est de s’habituer à travailler en consultant des ressources pertinentes sur internet en cas de besoin. L'usage de chaptèGPT est permis par contre, vous devrez fournir votre prompt de session (lien url fourni par chat-gpt par exemple). Il est fortement conseillé de ne pas copier/coller les codes mais de les retaper pour laisser à cvotre cerveau le temps de les assimiler
 
 ## Objectif
 
@@ -9,7 +9,7 @@ On s’intéresse au tracking par un drone volant d'une boule de couleur, c'est-
 [Vidéo du comportement](https://www.youtube.com/watch?v=_3697dtyOz4)
 
 Le fichier [balls_tracker.py](couleur/balls_tracker.py)
-contient un exemple de code associé à un ensemble de vidéos. 
+contient un exemple de code ( associé à un ensemble de vidéos.)
 
 ## Question 1
 Tester ce code avec Python (V3):
@@ -39,5 +39,17 @@ Je vous propose aussi de regarder la vidéo suivante sur la représentation des 
 [<img src="https://img.youtube.com/vi/CF4wuPLBaAA/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/CF4wuPLBaAA?autoplay=1)
 
+Tester ce code sur la vidéo ball3.mp4 et faites une copie d'écran pour chaque couleur correctement traquée . Joindre le code dans le rapport.
 
 
+### Question 3
+
+Le code fourni (ou plus précisément sa version originale [ici](https://github.com/fabricejumel/OpenCV-Python-Hacks/blob/master/greenball_tracker.py)) peut être utilisé pour le contrôle d'un drône.  
+Cela est fait dans le projet suivant :  
+https://github.com/fabricejumel/ARDroneAutoPylot  
+et plus précisément dans le code suivant :  
+
+https://github.com/fabricejumel/ARDroneAutoPylot/blob/master/opencv/autopylot_agent.py  
+
+Expliquer ce code (avec le plus de détail possible (`autopylot_agent.py`)) et le lien avec le `greenball_tracker.py`.  
+Quelle est le comportement ? Comment est gérée la « distance » à l'objet traqué ?
