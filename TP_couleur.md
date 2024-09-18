@@ -8,8 +8,8 @@ Le travail est à faire en autonomie par binôme. Le but est de s’habituer à 
 On s’intéresse au tracking par un drone volant d'une boule de couleur, c'est-à-dire aux technologies permettant le comportement suivant :  
 [Vidéo du comportement](https://www.youtube.com/watch?v=_3697dtyOz4)
 
-Un fichier zippé `BallTracker.tar.gz` contient un exemple de code et un ensemble de vidéos. Le code est une version à peine modifiée du code suivant :  
-[Exemple de code](couleur/greenball_tracker.py)
+Le fichier [balls_tracker.py](couleur/balls_tracker.py)
+contient un exemple de code associé à un ensemble de vidéos. 
 
 ## Question 1
 Tester ce code avec Python V2 :
