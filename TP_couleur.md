@@ -12,7 +12,7 @@ Le fichier [balls_tracker.py](couleur/balls_tracker.py)
 contient un exemple de code associé à un ensemble de vidéos. 
 
 ## Question 1
-Tester ce code avec Python V2 :
+Tester ce code avec Python (V3):
 
 ```bash
 python balls_tracker.py
