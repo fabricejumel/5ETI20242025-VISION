@@ -1,6 +1,6 @@
 Module VISION
 
-<img src="img/th.jpg" height="300">
+<img src="img/th.jpeg" height="300">
 
 TP 1 [TP Couleur ](TP_couleur.md)
 
