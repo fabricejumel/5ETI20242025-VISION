@@ -3,7 +3,7 @@
 
 <img src="img/th.jpeg" height="300">
 
-Il est recommandé de travailler dans un environnement virtuelle 
+Il est recommandé de travailler dans un environnement virtuel
 
 ``` bash
 # Creation initiale  du virtual env
