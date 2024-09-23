@@ -20,9 +20,9 @@ pip install -r requirements.txt
  
 
 Les actvités
+TP 0 [TP Couleur ](TP_vision_intro.md)
 
-TP 1 [TP Couleur ](TP_couleur.md)
-
+TP 1 [TP Couleur ](TP_couleur.md)visiàon_uintro
 TP 2 [TP detection ](TP_detection.md)
 
 TP3 [TP cascade de haar](TP_cascade_de_haar.md)
