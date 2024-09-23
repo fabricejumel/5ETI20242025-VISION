@@ -10,12 +10,12 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
    - **Détection de véhicules** : Identifier les voitures, motos, camions, etc., dans un environnement extérieur.
 
 
-### 3. **Suivi d’objets et de personnes**
+### 1. **Suivi d’objets et de personnes**
    - **Suivi d’objets en mouvement** : Suivre la trajectoire d'un objet dans une séquence vidéo.
    - **Suivi de personnes** : Maintenir une personne dans le cadre pour un robot assistant ou un robot de surveillance.
    - **Multi-object tracking** : Suivre plusieurs objets simultanément (ex. dans un entrepôt ou une foule).
 
-### 4. **Segmentation d’objets**
+### 1. **Segmentation d’objets**
    - **Segmentation d'objets** : Séparer les objets du fond dans une image (utilisé dans la manipulation robotique ou la navigation).
    - **Segmentation sémantique** : Assigner un label à chaque pixel d’une image pour comprendre les limites exactes des objets.
    - **Segmentation instance** : Différencier plusieurs instances du même type d’objet (ex. deux chaises différentes dans une pièce).
