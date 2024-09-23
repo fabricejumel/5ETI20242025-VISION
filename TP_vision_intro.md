@@ -9,9 +9,6 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
    - **Reconnaissance faciale** : Identifier et distinguer les visages des personnes.
    - **Détection de véhicules** : Identifier les voitures, motos, camions, etc., dans un environnement extérieur.
 
-### 2. **Classification d’objets**
-   - **Catégorisation d’objets** : Assigner une catégorie ou un label à un objet (ex. voiture, chaise, livre).
-   - **Identification d’objets spécifiques** : Reconnaître des objets uniques (ex. reconnaître un objet particulier comme "ma tasse").
 
 ### 3. **Suivi d’objets et de personnes**
    - **Suivi d’objets en mouvement** : Suivre la trajectoire d'un objet dans une séquence vidéo.
@@ -25,15 +22,10 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
 
 ### 5. **Reconstruction 3D et perception de la profondeur**
    - **Stéréovision** : Utiliser deux caméras pour percevoir la profondeur et reconstruire des scènes en 3D.
-   - **SLAM (Simultaneous Localization and Mapping)** : Construire une carte 3D de l’environnement tout en se localisant dans cet espace.
-   - **Détection de surfaces planes** : Identifier des surfaces sur lesquelles le robot peut naviguer ou manipuler des objets.
-   - **Reconstruction volumétrique** : Modéliser des objets et des scènes en 3D à partir de plusieurs images.
 
 ### 6. **Navigation visuelle**
    - **Reconnaissance de l'environnement** : Identifier les obstacles et les zones dégagées pour la navigation.
    - **Suivi de ligne** : Suivre une ligne tracée au sol, souvent utilisé dans les robots industriels ou éducatifs.
-   - **Détection de collision** : Prévoir et éviter les collisions avec des objets ou des personnes.
-   - **Détection d’escaliers et de rebords** : Pour que le robot puisse naviguer en toute sécurité dans des environnements domestiques ou industriels.
 
 ### 7. **Manipulation d’objets**
    - **Préhension d’objets** : Détecter, localiser et saisir des objets avec précision (robots industriels ou de service).
@@ -53,16 +45,12 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
 ### 10. **Reconnaissance de scènes et de contextes**
    - **Compréhension de scènes complexes** : Identifier la nature globale d'une scène (ex. cuisine, bureau, rue) pour ajuster le comportement du robot.
    - **Contextualisation** : Relier les objets entre eux pour comprendre leur rôle dans une scène (ex. table, chaise, assiette dans une scène de salle à manger).
-   - **Détection de zones interdites** : Identifier des zones où le robot ne doit pas entrer (zones de danger).
+
 
 ### 11. **Détection d’anomalies et de défauts**
    - **Détection d'anomalies visuelles** : Identifier des anomalies ou des défauts sur des objets ou des machines (utilisé dans la robotique industrielle pour le contrôle qualité).
    - **Surveillance visuelle** : Détecter des comportements ou des événements anormaux pour la sécurité (robots de surveillance).
 
-### 12. **Fusion de capteurs visuels**
-   - **Fusion vision + lidar/radar** : Combiner les données de la vision avec celles d'autres capteurs comme le LIDAR pour une meilleure perception.
-   - **Vision nocturne** : Utiliser des caméras infrarouges pour naviguer et percevoir des objets dans des environnements faiblement éclairés.
-   - **Vision multispectrale** : Utiliser différentes longueurs d’onde (infrarouge, ultraviolet) pour des applications spécialisées (robots agricoles, médicaux, etc.).
 
 ### 13. **Reconnaissance et suivi de visages**
    - **Reconnaissance de visages** : Pour identifier et suivre des personnes spécifiques.
@@ -76,9 +64,6 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
    - **Suivi des expressions faciales** : Détecter et analyser les émotions humaines à partir des expressions du visage pour améliorer l’interaction homme-robot.
    - **Interaction vocale basée sur la vision** : Utiliser la vision pour améliorer la reconnaissance vocale (en identifiant les personnes qui parlent par leurs mouvements de bouche).
 
-### 16. **Autonomie et navigation autonome**
-   - **Détection des routes et trottoirs** : Reconnaître les routes, trottoirs, et pistes cyclables pour les robots autonomes (comme les voitures).
-   - **Signalisation lumineuse** : Détecter et interpréter les feux de circulation pour des véhicules autonomes.
 
 
 
