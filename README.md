@@ -1,5 +1,6 @@
 ## Module VISION
-Le rendu sous forme d'un git sous gitlab qui sera géénr&é une fois les groupes fixés. Le rendu se fera en monome ou binome 
+> [!IMPORTANT]
+> Le rendu sous forme d'un git sous gitlab qui sera géénr&é une fois les groupes fixés. Le rendu se fera en monome ou binome 
 
 <img src="img/th.jpeg" height="300">
 
