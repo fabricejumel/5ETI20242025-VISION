@@ -75,11 +75,12 @@ Si ce n’est pas le cas ou si la vidéo proposée ne permet pas de tester, cré
 
 ### Question 9
 Proposer un code qui résout ce problème. 
+
 ### Question 10
-Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image.
+Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 3 nouvelles couleurs de balles 
 
 ### Question 11
-En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage.
+En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies.
 
 ### Question 12 (Bonus)
 Si on fait l’hypothèse que l’objet est une balle (ronde), montrer comment on peut prendre en compte l’information et reconstituer le cercle de contour de cette balle.
