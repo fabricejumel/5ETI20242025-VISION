@@ -1,4 +1,6 @@
 Module VISION
+<img src="img/th.jpeg" height="300">
+
 Il est recommandé de travailler dans un environnement virtuelle 
 
 ``` bash
@@ -15,7 +17,7 @@ pip install -r requirements.txt
 | :exclamation: Ne jamais inclure votre venv sur github sous peine de non validation du module  :exclamation:|
 
 
-<img src="img/th.jpeg" height="300">
+Les actvités
 
 TP 1 [TP Couleur ](TP_couleur.md)
 
