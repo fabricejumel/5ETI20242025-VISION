@@ -1,6 +1,6 @@
 ## Module VISION
 > [!IMPORTANT]
-> Le rendu sous forme d'un git sous gitlab qui sera géénr&é une fois les groupes fixés. Le rendu se fera en monome ou binome 
+> Le rendu sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome. Dans le cas des binomes, les 2 comptes doivent contribuer de manière équitable ( au sens git)
 
 <img src="img/th.jpeg" height="300">
 
