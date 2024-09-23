@@ -12,7 +12,7 @@ pip install -r requirements.txt
 | :boom: DANGER              |
 |:---------------------------|
 | :exclamation: Ne jamais inclure votre venv sur github sous peine de non validation du module  :exclamation:|
-|:---------------------------|
+
 
 <img src="img/th.jpeg" height="300">
 
