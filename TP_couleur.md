@@ -71,13 +71,13 @@ Faites fonctionner votre code précédent en prenant en compte la couleur rose s
 
 ### Question 8
 A priori votre code passe d'une boule à l'autre, comment est-il possible de rester toujours sur la même ?  
-Si ce n’est pas le cas ou si la vidéo proposée ne permet pas de tester, créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
+Si vous n'avez pas le comportement a problème,  créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
 
 ### Question 9
 Proposer un code qui résout ce problème. 
 
 ### Question 10
-Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 3 nouvelles couleurs de balles 
+Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 2 nouvelles couleurs de balles 
 
 ### Question 11
 En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies.
