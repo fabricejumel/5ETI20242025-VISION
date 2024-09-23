@@ -74,8 +74,7 @@ A priori votre code passe d'une boule à l'autre, comment est-il possible de res
 Si ce n’est pas le cas ou si la vidéo proposée ne permet pas de tester, créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
 
 ### Question 9
-Proposer un code qui résout ce problème. *(Question difficile)*
-
+Proposer un code qui résout ce problème. 
 ### Question 10
 Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image.
 
