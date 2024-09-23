@@ -1,6 +1,4 @@
-# Vision appliquée pour la Robotique
-### Majeure ROS / module VISON 2024/2025  
-### TP : Detection par Deep Learning - Mise en œuvre de Yolo
+# TP : Detection par Deep Learning - Mise en œuvre de Yolo
 
 ## Sujet
 
