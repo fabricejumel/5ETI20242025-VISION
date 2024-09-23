@@ -4,7 +4,7 @@ Il est recommandé de travailler dans un environnement virtuelle
 ``` bash
 python -m venv venv_vision2024
 # Activation du virtual env, a refaire a chaque ouverture de nouveau terminal
-source venv_vision2024/bin/activat
+source venv_vision2024/bin/activate
 #installation des requirements (à faire une fois avec le virtual env activé)
 pip install -r requirements.txt
 ````
