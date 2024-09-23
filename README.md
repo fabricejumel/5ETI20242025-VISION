@@ -1,4 +1,16 @@
 Module VISION
+Il est recommandé de travailler dans un environnement virtuelle 
+# Creation initiale  du virtual env
+python -m venv venv_vision2024
+# Activation du virtual env, a refaire a chaque ouverture de nouveau terminal
+source venv_vision2024/bin/activate
+#installation des requirements (à faire une fois avec le virtual env activé)
+pip install -r requirements.txt
+
+| :boom: DANGER              |
+|:---------------------------|
+| Ne jamais inclure votre venv sur github sous peine de non validation du module  |
+
 
 <img src="img/th.jpeg" height="300">
 
