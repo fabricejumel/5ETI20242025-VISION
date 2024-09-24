@@ -1,11 +1,7 @@
 
-# Vision appliquée pour la Robotique  
-## Majeure ROS/ module Vision  
-2023/2024
+# TP Cascade de Haar
 
-### TP Cascade de Haar
 
-#### Sujet
 
 **Prérequis**: connaissances à minima du traitement d'images. Bases d'algorithmie. Connaissances à minima de python. Manipulation des concepts de ROS.
 
