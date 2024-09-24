@@ -10,7 +10,7 @@ Prise en main d'une librairie d'analyse d'images (OpenCV) et d'une cascade de Ha
 OpenCV est la solution la plus utilisée pour le traitement d'images. Il s'agit d'un framework C++ pour lequel il existe un wrapper python. Une perte en performance peut être constatée (qui peut être en partie comblée par la compréhension et la mise en place de parallélisation ou l'usage des cartes graphiques comme support d’exécution). Dans le cadre de cette série de TP, l'accent n'est pas mis sur les performances mais le prototypage.
 
 #### 1) Prendre en main le code suivant
-[balls_tracker.py](couleur/balls_tracker.py)
+[face_detection_test.py](cascade_haar/face_detection_test.py)
 
 ```python
 import cv2
