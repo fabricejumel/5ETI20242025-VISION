@@ -5,7 +5,8 @@ La vision par ordinateur pour un robot est cruciale pour permettre à la machine
 Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en python d'outils/librairies permettant de répondre à ces besoins , mettre les liens et une illustration pertinente en fonctionnement. Indiquer la taille de la solution , les dépendances 
  logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calcul. 
 
- 
+ > [!IMPORTANT]
+> Ce travail pourrait se révelait très long, Vous devez donc  a minima proposer 5 solutions au total.
 
 ### 1. **Détection d’objets et de personnes**
    - **Détection d’objets** : Identifier et localiser des objets dans l’environnement (ex. bouteilles, outils, meubles, etc.).
