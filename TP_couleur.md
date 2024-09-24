@@ -112,7 +112,8 @@ if __name__ == '__main__':
 
            print('Capture failed')
            break
-```|
+
+```
 
 ## Question 1
 Tester ce code avec Python (V3):
