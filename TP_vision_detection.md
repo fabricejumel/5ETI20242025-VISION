@@ -44,7 +44,7 @@ Le rendu sera fait sur git avec un rapport contenant les codes et exemples
 Choissisez 5 objets 
 
 1. **Question 3.1** : Utiliser **Roboflow** pour créer un dataset, l'exporter au format YOLO et TensorFlow, puis lancer l’apprentissage sur Roboflow. Tester les résultats. Comment récupérer et utiliser le réseau généré ?
-2. **Question 3.2** : Exporter le dataset sous **Ultralytics** puis entraîner en utilisant le format **YOLOv5lu**. Tester les résultats et comparer avec ceux de Roboflow. Exporter ensuite au format **ONNX** et tester sous OpenCV.
+2. **Question 3.2** : Exporter le dataset sous **Ultralytics** puis entraîner sous google collab en utilisant le format **YOLOv5lu**. Tester les résultats et comparer avec ceux de Roboflow. Exporter ensuite au format **ONNX** et tester sous OpenCV.
 3. **Question 3.3** : Repartir du code de la question 2 et l’adapter pour utiliser votre réseau ONNX. Expliquer les modifications effectuées, inclure le code et les captures d’écran.
 
 ---
