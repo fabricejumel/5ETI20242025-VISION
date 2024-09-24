@@ -1,7 +1,7 @@
 La vision par ordinateur pour un robot est cruciale pour permettre à la machine d’interagir intelligemment avec son environnement. Les besoins en vision varient selon les types de robots (robots de service, robots industriels, drones, véhicules autonomes, etc.) et leurs applications spécifiques (navigation, manipulation d’objets, surveillance, etc.). Voici une longue liste des principaux besoins en vision pour un robot :
 
 Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en python d'outils/librairies permettant de répondre à ces besoins , mettre les liens et une illustration pertinente en fonctionnement. Indiquer la taille de la solution , les dépendances 
- logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calculs . 
+ logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calcul. 
 
 ### 1. **Détection d’objets et de personnes**
    - **Détection d’objets** : Identifier et localiser des objets dans l’environnement (ex. bouteilles, outils, meubles, etc.).
