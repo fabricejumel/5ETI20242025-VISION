@@ -171,10 +171,10 @@ Essayer d'expliquer comment.
 Proposer une modification du code `greenball_tracker` (en vous inspirant ou pas du code précédent) qui donne un comportement équivalent. Tester ce code si possible sur `ball2.mp4`.
 
 ### Question 6
-Faites fonctionner votre code précédent en prenant en compte la couleur rose sur la vidéo `ball4.mp4`.
+Faites fonctionner votre code précédent en prenant en compte la couleur rose sur la vidéo `ball4.mp4`. l'idée est de suivre la boule la plus grosse à l'écran.
 
 ### Question 8
-A priori votre code passe d'une boule à l'autre, comment est-il possible de rester toujours sur la même ?  
+A priori votre code passe d'une boule à l'autre (en trackant la plus grosse), comment est-il possible de rester toujours sur la même ?  
 Si vous n'avez pas le comportement a problème,  créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
 
 ### Question 9
