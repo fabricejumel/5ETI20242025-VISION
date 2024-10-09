@@ -45,8 +45,10 @@ Choissisez entre 5 et 10 objets, vous devrez faire une vingtaine de photo par ob
 
 1. **Question 3.1** : Utiliser **Roboflow** pour créer un dataset (detector, bounding box ), puis lancer l’apprentissage sur Roboflow. Tester les résultats. Comment récupérer et utiliser le réseau généré ?
 2. **Question 3.2** :Exporter au format ultralytics Hub (download dataset puis format hultralytics hub).Rq :   Sous **Ultralytics** Lancer l'entrainement sous google collab en utilisant le format **YOLOv5lu**. Tester les résultats et comparer avec ceux de Roboflow. Exporter ensuite au format **ONNX**
-   > [!CAUTION]
-   > Si la procedure d'export automatique de roboflow vers Ultralytics ne fonctionnen pas, exporter au format yolov5 pytorch puis importé  le zip sur votre ordinateur pour le reinjecter comme dataset sous ultralytics.
+   
+> [!CAUTION]
+> Si la procedure d'export automatique de roboflow vers Ultralytics ne fonctionnen pas, exporter au format yolov5 pytorch puis importé  le zip sur votre ordinateur pour le reinjecter comme dataset sous ultralytics.
+
 4. **Question 3.3** : Repartir du code de la question 2 et l’adapter pour utiliser votre réseau ONNX. Expliquer les modifications effectuées, inclure le code et les captures d’écran.
 
 ---
