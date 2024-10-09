@@ -47,7 +47,7 @@ Choissisez entre 5 et 10 objets, vous devrez faire une vingtaine de photo par ob
 2. **Question 3.2** :Exporter au format ultralytics Hub (download dataset puis format hultralytics hub).Rq :   Sous **Ultralytics** Lancer l'entrainement sous google collab en utilisant le format **YOLOv5lu**. Tester les résultats et comparer avec ceux de Roboflow. Exporter ensuite au format **ONNX**
    
 > [!CAUTION]
-> Si la procedure d'export automatique de **Roboflow** vers **Ultralytics**  ne fonctionnen pas, exporter au format yolov5 pytorch sur votre ordinateur pour le reinjecter comme dataset sous **Ultralytics**.
+> Si la procedure d'export automatique de **Roboflow** vers **Ultralytics**  ne fonctionne pas, exporter au format yolov5 pytorch sur votre ordinateur pour le reinjecter comme dataset sous **Ultralytics**.
 
 4. **Question 3.3** : Repartir du code de la question 2 et l’adapter pour utiliser votre réseau ONNX. Expliquer les modifications effectuées, inclure le code et les captures d’écran.
 
